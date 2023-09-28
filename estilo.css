@@ -4,6 +4,11 @@
     padding: 0px;
 }
 
+@font-face {
+    font-family: 'Questrial-Regular';
+    src: url(imagens/Questrial-Regular.ttf);
+}
+
 body {
     background-color: #ffffff;
     overflow-x: hidden; /*Impede a barra de rolagem horizontal*/
