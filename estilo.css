@@ -538,18 +538,14 @@ h3 {
 
     .bannerindex2 {
         background-image: url(imagens/celularblackbanner.png);
-        height: 500px;
+        height: 800px;
     }
 
     .bannerindex3 {
         background-image: url(imagens/celularbannermodelos.png);
-        height: 800px;
+        height: 2000px;
     }
 
-    .bannerindex4 {
-        background-image: url(imagens/b1celulareng.png);
-        height: 1200px;
-    }
 
     /*FIM INDEX*/
 
