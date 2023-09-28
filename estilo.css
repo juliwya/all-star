@@ -321,14 +321,14 @@ h3 {
     }
 
     .bannerindex2 {
-        background-image: url(imagens/novobanner.png);
+        background-image: url(imagens/bannerblack.png);
         width: 100%;
         height: 100%;
         background-size: cover;
     }
 
     .bannerindex3 {
-        background-image: url(imagens/b3.png);
+        background-image: url(imagens/bannermodelos.png);
         width: 100%;
         height: 100%;
         background-size: cover;
